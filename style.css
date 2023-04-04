@@ -1,7 +1,7 @@
 body {
         background-image: url(./images.jpg);
         border: 15px ridge rgb(9, 233, 9);
-         width :1330px;
+         width :1310px;
         height :2050px;
         background-size:cover;
         background-repeat: no-repeat;
@@ -166,6 +166,7 @@ fieldset {
   position: absolute;
 margin-left:470px;
 top:1300px;
+        right:40px;
 
 
 }
