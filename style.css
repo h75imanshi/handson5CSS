@@ -120,10 +120,7 @@ fieldset {
         border-top: 1px solid tomato;
 
 }
-.flex
-{
-        display:flex;
-}
+
 .menu {
         border-radius: 50px 50px 50px 50px;
         -moz-border-radius: 50px 50px 50px 50px;
