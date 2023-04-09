@@ -1,7 +1,7 @@
 body {
         background-image: url(./images.jpg);
         border: 15px ridge rgb(9, 233, 9);
-         width :1360px;
+         width :1340px;
         height :2050px;
         background-size:cover;
         background-repeat: no-repeat;
@@ -212,7 +212,8 @@ top:1300px;
         font-size: 18px;
         top:1650px;
          position: absolute;
-            right:410px;
+            right:450px;
+     
            
  
 }
