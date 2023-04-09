@@ -1,7 +1,7 @@
 body {
         background-image: url(./images.jpg);
         border: 15px ridge rgb(9, 233, 9);
-         width :1380px;
+         width :1360px;
         height :2050px;
         background-size:cover;
         background-repeat: no-repeat;
@@ -199,7 +199,7 @@ top:1300px;
         font-size: 18px;
         top:1650px;
          position: absolute;
-            left:150px;
+            left:180px;
  
 }
 #roundedBox4 {
